@@ -6,6 +6,7 @@ body{
 
 #tagLine{
 text-align: center;
+margin-bottom: 10px;
 }
 
 body::-webkit-scrollbar {
@@ -87,7 +88,7 @@ nav ul li{
 }
 
 .container{
-     height: 48vh; 
+     height: 51vh; 
      background-color: rgb(0, 0, 0);
      color: white;
      font-family: 'Varela Round', sans-serif;
@@ -96,7 +97,7 @@ nav ul li{
      margin-left: 30vh;
      margin-right: 30vh;
      border-radius: 12px;
-     padding: 34px;
+     padding: 15px 30px 30px 30px;
      border-color: blanchedalmond;
 
 }
@@ -128,8 +129,7 @@ nav ul li{
 }
 
 .songItemContainer{
-    height: 45vh;
-    margin-bottom: 50px;
+    height: 44vh;
     overflow-x: hidden;
     padding-right: 10px;
 }
