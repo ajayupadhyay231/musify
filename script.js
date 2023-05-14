@@ -18,7 +18,7 @@ let songs = [
     {songName: "BIJLEE BIJLEE - HARRDY SANDHU ", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
     {songName: "KINNA SONA - JUBIN NAUTIYAL ", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
     {songName: "BELIEVER - IMAGINE DRAGONS ", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
-    {songName: "FADED - ALAN WALKER", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
+    {songName: "SHOORVEER 2", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
     {songName: "FARAK - DIVINE", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
 ]
 
