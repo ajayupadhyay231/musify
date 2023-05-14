@@ -11,15 +11,15 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "AAGE CHAL- RAFTAAR", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "ON MY WAY - ALAN WALKER", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "FADED - ALAN WALKER", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "PASOORI - ALI SETHI x SHAE GILL", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "SHOORVEER 3-A Tribute to छत्रपति शिवाजी महाराज", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "KHWAHISH - MUNAWAR FARUQUI", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "AZADI- GULLY BOY", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "DANVEER KARAN THE - ABBY VIRAL", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "BIJLEE BIJLEE - HARRDY SANDHU ", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
     {songName: "KINNA SONA - JUBIN NAUTIYAL ", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
     {songName: "BELIEVER - IMAGINE DRAGONS ", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
-    {songName: "KHWAHISH - MUNAWAR FARUQUI", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
-    {songName: "MANN MERI JANN- KING", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
+    {songName: "FADED - ALAN WALKER", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
+    {songName: "FARAK - DIVINE", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
 ]
 
 
