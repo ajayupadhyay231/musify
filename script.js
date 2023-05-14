@@ -11,7 +11,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "AAGE CHAL- RAFTAAR", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "SHOORVEER 3-A Tribute to छत्रपति शिवाजी महाराज", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "SHOORVEER 3", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "KHWAHISH - MUNAWAR FARUQUI", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "AZADI- GULLY BOY", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "DANVEER KARAN THE - ABBY VIRAL", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
