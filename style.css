@@ -11,7 +11,7 @@ margin-bottom: 10px;
 
 body::-webkit-scrollbar {
     width: 10px;
-  }
+ }
   
   body::-webkit-scrollbar-thumb {
     background-color: #666;
@@ -135,7 +135,7 @@ nav ul li{
 }
   .songItemContainer::-webkit-scrollbar {
     width: 10px; /* Set the width of the scrollbar */
-    background-color: #F5F5F5; /* Set the background color of the scrollbar */
+    background-color: #F5F5F5; /* Set the background color of the scrollbar */  
   }
   
   .songItemContainer::-webkit-scrollbar-thumb {
@@ -194,6 +194,9 @@ nav ul li{
     height: 57vh;
   }
 
+  .container h1{
+    font-size: 1.3em;
+  }
   .songItemContainer{
     margin-top: 10px;
     height:90%;
@@ -208,6 +211,7 @@ nav ul li{
   .songItem img{
     margin-top: 10px;
     width: 90%;
+    height: 70%;
     object-fit: cover;
  }
 
@@ -222,7 +226,6 @@ nav ul li{
   font-size: 60px;
   margin-bottom: 11px;
   color: white;
-  margin-left: 25px;
  }
  
  .bottom{
